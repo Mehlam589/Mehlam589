@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @ Mehlam (can call me Flawky 🤫)
-- 👀 I’m a Game Developer
-- 🌱 I’m currently working on C++ & Unreal Engine ...
-- 💞️ I’m an indie dev
-- 📫 How to reach me mdcbussiness10@gmail.com
-- 👋🏻 Free to exchange the resources and knowledge with me 
+Hello, I am Mehlam, but you can call me Flawky.
+
+I am a professional game developer with experience in C++ and Unreal Engine.
+
+I am currently working on an indie game development project.
+
+I am open to exchanging resources and knowledge with other professionals in the industry.
+
+You can reach me at mdcbussiness10@gmail.com. 
 
 
 <!---
